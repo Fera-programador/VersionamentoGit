@@ -1,5 +1,9 @@
 
-<p align="left">- Estudante Análise edesenvolvimento de Sistemas<br><br>- Apaixonado por Tecnologia</p>
+<h1 align="left">- Estudante Análise edesenvolvimento de Sistemas<br><br>- Apaixonado por Tecnologia</h1>
+
+###
+
+<h3 align="left">Experiencias</h3>
 
 ###
 
@@ -31,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fera-programador/Fera-programador/output/snake.svg" alt="Snake animation" />
+<p align="left">Social Media</p>
 
 ###
 
