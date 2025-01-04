@@ -1,5 +1,5 @@
 
-<p align="left">Hello World!!<br><br><br>- Estudante Análise edesenvolvimento de Sistemas<br><br>- Apaixonado por Tecnologia</p>
+<p align="left">- Estudante Análise edesenvolvimento de Sistemas<br><br>- Apaixonado por Tecnologia</p>
 
 ###
 
